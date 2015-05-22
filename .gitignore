@@ -1,0 +1,7 @@
+Backup/
+Cache/
+Index/
+Local/
+*.cache
+*.pyc
+*.last-run

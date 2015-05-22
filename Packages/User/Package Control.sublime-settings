@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"ColorPicker",
+		"GotoDocumentation",
+		"HTML Mustache",
+		"HTMLBeautify",
+		"INI",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON"
+	]
+}
