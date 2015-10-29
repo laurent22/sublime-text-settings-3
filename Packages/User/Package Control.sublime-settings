@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -12,6 +13,8 @@
 		"INI",
 		"MarkdownEditing",
 		"Package Control",
-		"Pretty JSON"
+		"Pretty JSON",
+		"Text Pastry",
+		"Twig"
 	]
 }
