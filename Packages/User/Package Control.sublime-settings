@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"AutoHotkey"
 	],
 	"installed_packages":
 	[
@@ -10,13 +11,15 @@
 		"ColorPicker",
 		"GotoDocumentation",
 		"HTML Mustache",
-		"HTMLBeautify",
 		"INI",
 		"MarkdownEditing",
 		"Package Control",
+		"PHP-Twig",
 		"Pretty JSON",
+		"SideBarEnhancements",
 		"Text Pastry",
 		"TrailingSpaces",
-		"Twig"
+		"URLEncode",
+		"Varnish VCL"
 	]
 }
