@@ -62,6 +62,7 @@
 	],
 	"find_selected_text": false,
 	"fold_buttons": false,
+	"default_line_ending": "unix",
 	"folder_exclude_patterns":
 	[
 		"application/cache",
@@ -78,18 +79,6 @@
 	[
 		"Markdown",
 		"Vintage"
-	],
-	"ignored_words":
-	[
-		"config",
-		"config/config",
-		"dbmigration",
-		"eg",
-		"php",
-		"sql",
-		"toml",
-		"versioned",
-		"xxx"
 	],
 	"open_files_in_new_window": false,
 	"shift_tab_unindent": true,
