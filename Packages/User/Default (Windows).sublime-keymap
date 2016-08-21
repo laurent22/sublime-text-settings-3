@@ -9,5 +9,6 @@
 	{ "keys": ["ctrl+shift+v"], "command": "run_macro_file", "args": {"file": "Packages/User/deletewordandpaste.sublime-macro"} },
 	{ "keys": ["ctrl+shift+w"], "command": "close_others" },
 	{ "keys": ["f1"], "command": "goto_documentation" },
-	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
+	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+	{ "keys": ["f9"], "command": "goto_definition" }
 ]
