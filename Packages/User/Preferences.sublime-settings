@@ -6,6 +6,7 @@
 	"caret_style": "blink",
 	"color_scheme": "Packages/User/Themes/Monokai Extended Bright (Mod).tmTheme",
 	"copy_with_empty_selection": false,
+	"default_line_ending": "unix",
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
 	"draw_minimap_border": true,
@@ -64,7 +65,6 @@
 	],
 	"find_selected_text": false,
 	"fold_buttons": false,
-	"default_line_ending": "unix",
 	"folder_exclude_patterns":
 	[
 		"application/cache",
@@ -79,7 +79,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"AutoHotkey",
 		"Markdown",
 		"Vintage"
 	],
