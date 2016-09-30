@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"AutoHotkey"
 	],
 	"installed_packages":
 	[
@@ -11,11 +10,12 @@
 		"ColorPicker",
 		"GotoDocumentation",
 		"HTML Mustache",
+		"HTMLBeautify",
+		"iCalendar",
 		"INI",
 		"MarkdownEditing",
 		"Package Control",
 		"PHP-Twig",
-		"Pretty JSON",
 		"SideBarEnhancements",
 		"SqlBeautifier",
 		"Text Pastry",

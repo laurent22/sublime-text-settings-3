@@ -22,6 +22,7 @@
 	"caret_style": "blink",
 	"color_scheme": "Packages/User/Themes/Monokai Extended Bright (Mod).tmTheme",
 	"copy_with_empty_selection": false,
+	"default_line_ending": "unix",
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
 	"draw_minimap_border": true,
@@ -94,12 +95,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"AutoHotkey",
-		"Markdown",
 		"Vintage"
-	],
-	"ignored_words":
-	[
 	],
 	"open_files_in_new_window": false,
 	"scroll_speed": 0,
