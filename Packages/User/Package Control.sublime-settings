@@ -17,9 +17,11 @@
 		"PHP-Twig",
 		"Pretty JSON",
 		"SideBarEnhancements",
+		"SqlBeautifier",
 		"Text Pastry",
 		"TrailingSpaces",
 		"URLEncode",
-		"Varnish VCL"
+		"Varnish VCL",
+		"Xdebug Client"
 	]
 }
